@@ -1,5 +1,4 @@
-# hangman
-## PROYECTO FINAL DE
+## Hangman - Proyecto de fin de año
 ### Introduccion a la Algoritmica, Analista en Computacion, Universidad Nacional de Rio Cuarto 2018
 
 ## How to run
