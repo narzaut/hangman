@@ -1,5 +1,4 @@
-## HANGMAN - PROYECTO FIN DE AÑO
-### Introduccion a la Algoritmica, Analista en Computacion, Universidad Nacional de Rio Cuarto 2018
+## HANGMAN - Introduccion a la Algoritmica, Analista en Computacion, Universidad Nacional de Rio Cuarto 2018
 
 ## Este programa es una implementacon del juego 'ahorcado' hecho en C
 
