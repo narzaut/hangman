@@ -6,7 +6,7 @@ Proyecto final de Introduccion a la Algoritmica.
 
 ### 1. Clone repository
 ```
-git clone
+git clone git@github.com:narzaut/hangman.git
 ```
 
 ### 2. Go to cloned directory
